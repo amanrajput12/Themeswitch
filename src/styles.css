@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  margin: 0;
+  padding: 0;
+}
+
+.light {
+  background-color: #f5f5f5;
+  color: #333;
+}
+.btn {
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.btnlight {
+  background-color: #262626;
+  color: white;
+}
+.btndark {
+  background-color: #808080;
+  color: #e2e2e27d;
+}
+
+/* Dark Theme */
+.dark {
+  background-color: #333;
+  color: #f5f5f5;
+}
